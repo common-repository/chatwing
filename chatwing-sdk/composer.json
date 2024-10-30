@@ -1,0 +1,22 @@
+{
+    "name": "chatwing/api",
+    "type": "library",
+    "description": "PHP Library used to interact with Chatwing API",
+    "keywords": ["Chatwing", "API"],
+    "homepage": "http://chatwing.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tri Dung Pham",
+            "email": "tridungpham.89@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Chatwing": "src/Chatwing"
+        },
+        "files":[
+            "src/Chatwing/start.php"
+        ]
+    }
+}

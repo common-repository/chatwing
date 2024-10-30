@@ -1,0 +1,125 @@
+# Translation of Development Readme (trunk) in English (Canada)
+# This file is distributed under the same license as the Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-21 21:01:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Development Readme (trunk)\n"
+
+#. Name.
+msgid "Chatwing"
+msgstr "Chatwing"
+
+#. Short description.
+msgid "Chatwing offers an unlimited live website/blog chat experience.This chat widget specializes in delivering real-time communication at any given time"
+msgstr "Chatwing offers an unlimited live website/blog chat experience.This chat widget specializes in delivering real-time communication at any given time"
+
+#. Screenshot description.
+msgid "ChatWing website"
+msgstr "ChatWing website"
+
+#. Screenshot description.
+msgid "Customize chatbox settings in chatwing"
+msgstr "\tCustomize chatbox settings in chatwing"
+
+#. Screenshot description.
+msgid "Insert access token in order to use the plugin"
+msgstr "Insert access token in order to use the plugin"
+
+#. Screenshot description.
+msgid "Customize plugin settings"
+msgstr "Customize plugin settings"
+
+#. Screenshot description.
+msgid "Insert chatbox as widget"
+msgstr "\tInsert chatbox as widget"
+
+#. Found in description list item.
+msgid "Create unlimited chat rooms with unlimited users."
+msgstr "Create unlimited chat rooms with unlimited users."
+
+#. Found in description list item.
+msgid "Choose to login with numerous social accounts including, Google, Facebook, Instagram, Twitter, Tumblr, Yahoo, Vkontacte, ChatWing and more."
+msgstr "\tChoose to login with numerous social accounts including, Google, Facebook, Instagram, Twitter, Tumblr, Yahoo, Vkontacte, ChatWing and more."
+
+#. Found in description list item.
+msgid "Use the lobby feature to join any existing room."
+msgstr "\tUse the lobby feature to join any existing room."
+
+#. Found in description list item.
+msgid "Search for specific rooms you usually chat in on websites and blogs, take that room on the go once bookmarked."
+msgstr "\tSearch for specific rooms you usually chat in on websites and blogs, take that room on the go once bookmarked."
+
+#. Found in description list item.
+msgid "Bookmark unlimited chats and have instant access anytime."
+msgstr "Bookmark unlimited chats and have instant access anytime."
+
+#. Found in description list item.
+msgid "Many customization controls allow the ability to edit your text, fonts, insert video and images direct and much more."
+msgstr "Many customization controls allow the ability to edit your text, fonts, insert video and images direct and much more."
+
+#. Found in description list item.
+msgid "Connect your room to the Chatwing Android and IOS (ipad/ipad) apps"
+msgstr "Connect your room to the Chatwing Android and IOS (ipad/ipad) apps"
+
+#. Found in description list item.
+msgid "Receive alerts and notifications of new messages via chatwing mobile apps"
+msgstr "Receive alerts and notifications of new messages via chatwing mobile apps"
+
+#. Found in description list item.
+msgid "Embed Chatwing into any webpage both Javascript and Iframe HTML code are available for each room"
+msgstr "Embed Chatwing into any webpage both Javascript and Iframe HTML code are available for each room"
+
+#. Found in description paragraph.
+msgid ""
+"ChatWing is the ultimate free live chat service, instantly chat from any device.\n"
+"ChatWing is 100% cloud based live chat, talk on websites, via direct links like \"chatwing.com/Mygroup\" and inside this app.\n"
+"Instantly create new rooms, invite users, put any chat room directly on your website or blog and connect to the app. Also use ChatWing as a direct live chat messenger with friends, contacts or to meet new people."
+msgstr ""
+"ChatWing is the ultimate free live chat service, instantly chat from any device.\n"
+"ChatWing is 100% cloud based live chat, talk on websites, via direct links like \"chatwing.com/Mygroup\" and inside this app.\n"
+"Instantly create new rooms, invite users, put any chat room directly on your website or blog and connect to the app. Also use ChatWing as a direct live chat messenger with friends, contacts or to meet new people."
+
+#. Found in installation list item.
+msgid "Upload content of the plugin zip file to the <code>/wp-content/plugins/</code> directory"
+msgstr "Upload content of the plugin zip file to the <code>/wp-content/plugins/</code> directory"
+
+#. Found in installation list item.
+msgid "Activate the plugin 'Chatwing' through the 'Plugins' menu in WordPress"
+msgstr "Activate the plugin 'Chatwing' through the 'Plugins' menu in WordPress"
+
+#. Found in installation list item.
+msgid "Go to chatwing.com, log in to your account and get the access token for WordPress plugin in order to use the plugin - <a href=\"http://chatwing.com/integrations/wordpress\">detail guide here</a>."
+msgstr "Go to chatwing.com, log in to your account and get the access token for WordPress plugin in order to use the plugin - <a href=\"http://chatwing.com/integrations/wordpress\">detail guide here</a>."
+
+#. Found in faq header.
+msgid "The plugin requires me to insert Access token. Where can I get it ?"
+msgstr "The plugin requires me to insert Access token. Where can I get it ?"
+
+#. Found in faq paragraph.
+msgid "Yes, you should have an access token in order to use this plugin. Please go to user control panel on ChatWing website to get that access token"
+msgstr "Yes, you should have an access token in order to use this plugin. Please go to user control panel on ChatWing website to get that access token"
+
+#. Found in changelog list item.
+msgid "Fix error when add chatbox to app"
+msgstr "Fix error when add chatbox to app"
+
+#. Found in changelog list item.
+msgid "Fix login issue with SSO function"
+msgstr "Fix login issue with SSO function"
+
+#. Found in changelog list item.
+msgid "Now user can get shortcode for chatbox from plugin setting page"
+msgstr "Now user can get shortcode for chatbox from plugin setting page"
+
+#. Found in changelog list item.
+msgid "Fix plugin not use production server"
+msgstr "Fix plugin not use production server"
+
+#. Found in changelog list item.
+msgid "Update to stable version for plugin."
+msgstr "Update to stable version for plugin."
